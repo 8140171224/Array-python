@@ -51,9 +51,9 @@
     arr2 = array([6,2,9,4,5])
 
     print(concatenate([arr1,arr2]))
+## --------------------------------------------------------------
 
-
-# Array-python-example
+## Array-python-example
 
 # importing all function from array
     from array import *
